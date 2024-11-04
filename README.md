@@ -1,19 +1,7 @@
 ### Hi there 👋
 
-I am Francesco, 24 years old and I am working at a university in Germany.
+I am Francesco, 25 years old and I am working at an university in Germany.
 
-<br>
-
-- 🔭 I’m currently working on ... nothing special
-- 🌱 I’m currently learning ... python and powershell
-- 👯 I’m looking to collaborate on ... anything
-- 🤔 I’m looking for help with ... anything
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... open a pull request
-- 😄 Pronouns: ... he/him/his
-- ⚡ Fun fact: ... I hate maths
-
-<br>
 
 ### My Stats
 
